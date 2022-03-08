@@ -10,3 +10,5 @@ python新手/h5+cs3略知一二/linux入门级用户，其他的找都别来找�
 常年游走于地府旁边，要是地铁站全白了记得给我上柱香
 
 ~~都不知道一个不会写程序的人到github到底干啥来的~~
+<hr>
+<img src="https://github.com/ltyec/ltyec/blob/main/photo_2022-03-06_10-52-30.jpg"/>
